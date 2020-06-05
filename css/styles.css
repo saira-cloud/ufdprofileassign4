@@ -1,0 +1,265 @@
+.main{
+    display: flex;
+    background-color: whitesmoke;
+    
+
+    
+}
+/* vertical menu bar */
+.main1{
+    height: 3000px;
+    width: 550px;
+    background-color: black;
+    
+  }
+    /* nav bar  */
+    .logo{
+        height: 150px;
+        margin-top: 30px;
+        width: 200px;
+        border: 2x solid black;
+    }
+    .menu-list{
+        
+        margin-top: 200px;
+        list-style-type: none;
+        text-decoration: none;
+    }
+        ul{
+            font-weight: bold;
+            list-style: none;
+            font-family: Georgia, 'Times New Roman', Times, serif;    
+            
+        }
+        li{
+            margin: 10px 10px 0;
+            font-weight: bold;
+            
+        }
+  .main2{
+      width: 1100px;
+      height: 980px;
+      
+  }
+.carousel-inner{
+    height: 970px;
+
+}
+.slider-image{
+    height: 970px;
+    width: 1000px;
+}
+p{
+    color: ghostwhite;
+}
+/* About us page begins */
+
+/* overview */
+.overview{
+    background-image: url(https://www.hcs.com.pk/wp-content/uploads/2015/05/156.jpg);
+    background-size: cover;
+    height: 700px;
+  
+    text-align: center;
+    border: 1px solid black;
+ 
+    
+    
+
+}
+.headover{
+    color: silver;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+    width: 400px;
+    
+    margin-right: auto;
+    margin-left: auto;
+    font-weight: bold;
+    font-weight: 100%;
+    margin-top: 10%;
+    
+    
+    
+    
+}
+
+
+.headpara{
+    color: silver;
+    
+   
+}
+
+/* ceo message */
+
+.aboutmain2{
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
+    
+}
+.ceo1, .ceo2{
+    
+    padding: 20px;
+    border: 1px solid whitesmoke;
+    
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100%;
+    color:blue
+    
+}
+.ceopara{
+    color: gray;
+}
+.ceopara1{
+    text-align: left;
+    color: black;
+
+}
+
+/* board of directors */
+
+.boardmain{
+    border: 1px solid black;
+    text-align: center;
+    align-items: center;
+    background-image: url(https://www.hcs.com.pk/wp-content/uploads/2015/05/bg-diroctors1.jpg);
+    background-size: cover;
+    background-color: black;
+    height: 700px;
+}
+.director{
+    display: flex;
+   justify-content: center;
+}
+.directorpic{
+    
+    width: 150px;
+    height: 200px;
+
+}
+.directorpara{
+    
+    color: black;
+
+    width: 150px;
+    height: 100px;
+
+}
+.paradirect{
+    color: blue;
+    
+}
+.heading2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+    color: white;
+    font-weight: 200%;
+    
+}
+.directorpara, .directorpic{
+    margin: 40px;
+}
+
+/* corporate statement */
+.copmain {
+    border: 1px solid blue;
+    background-color: blue;
+    justify-content: center;
+    text-align: center;
+    height: 450px;
+    
+
+}
+.coppara{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+.heading3{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+}
+.listcolor{
+    color: black;
+    text-decoration: none;
+
+}
+.awardmain{
+    border: 1px solid whitesmoke;
+    height: 600px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    
+    
+}
+.awardsub{
+    margin-top: 50px;
+    box-shadow: 2px 2px 10px grey;
+    height: 500px;
+    
+   
+}
+
+
+.awardpara{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+.awardpic, .awardpara{
+    margin: 20px;
+    justify-content: center;
+}
+
+.heading4{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+/* footer */
+
+.main5{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+   
+    
+
+}
+    
+.head5{
+    color: white;
+}
+.submain5{
+    
+    width: 200px;
+    height: 150px;
+}
+
+.submain6{
+    
+    width: 300px;
+    height: 150px;
+}
+
+.submain6, .submain5{
+    margin: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: silver;
+}
+
+

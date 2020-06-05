@@ -1,0 +1,131 @@
+.main{
+    display: flex;
+    background-color: whitesmoke;
+    
+
+    
+}
+/* vertical menu bar */
+.main1{
+    height: 1000px;
+    width: 300px;
+    background-color: black;
+    
+  }
+    /* nav bar  */
+    .logo{
+        height: 150px;
+        margin-top: 30px;
+        width: 200px;
+        border: 2x solid black;
+    }
+        
+    }
+    .menu-list{
+        
+        margin-top: 200px;
+        list-style-type: none;
+        text-decoration: none;
+    }
+        ul{
+            font-weight: bold;
+            list-style: none;
+            font-family: Georgia, 'Times New Roman', Times, serif;    
+            
+        }
+        li{
+            margin: 10px 10px 0;
+            font-weight: bold;
+            
+        }
+  .aboutmain1{
+      width: 1500px;
+      height: 980px;
+      
+  }
+
+/* contact us banner */
+.copmain {
+  
+    background-color: blue;
+    justify-content: center;
+    text-align: center;
+    height: 100px;
+    margin-top: 70px;
+    
+    
+
+}
+.coppara{
+   
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: black;
+}
+.heading3{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5%;
+}
+
+/* offices  */
+.awardmain{
+    border: 1px solid whitesmoke;
+    height: 600px;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    text-align: center;
+    
+    
+}
+.awardsub{
+    margin-top: 50px;
+    box-shadow: 2px 2px 10px grey;
+    height: 400px;
+    
+   
+}
+
+
+.awardpara{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+.awardpic, .awardpara{
+    margin: 20px;
+    justify-content: center;
+}
+
+.heading4{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 10px;
+    background-color: blue;
+    height: 250px;
+    box-shadow: 2px 2px 18px black;
+    margin-left: 20px;
+
+}
+.heading6{
+    padding: 30px;
+}
+.head7{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+/* copy */
+.copy{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: silver;
+    text-align: center;
+    height: 100px;
+}
